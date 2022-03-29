@@ -1,2 +1,1 @@
-console.log('hi cicd 2'
-            lala
+console.log('hi cicd 2')
